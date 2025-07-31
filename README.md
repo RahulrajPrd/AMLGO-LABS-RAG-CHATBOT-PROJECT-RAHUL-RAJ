@@ -99,8 +99,7 @@ Answers provide clear, concise info sourced directly from document chunks shown 
 - Proper API key and quota required to use Google Generative AI models.
 
 ## 🎥 Demo
-
-* UPDATE SOON 🙏*
+Link: https://youtu.be/Cg_cwOClUBE
 
 ## 🙏 Credits & References
 
